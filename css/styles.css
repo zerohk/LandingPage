@@ -22,6 +22,7 @@ body {
 .header {
   display: flex;
   justify-content: space-around;
+
   align-items: center;
 }
 
@@ -35,6 +36,8 @@ body {
   display: flex;
   gap: 20px;
   flex: 0 0 30vw;
+
+
 }
 
 a {
